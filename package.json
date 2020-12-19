@@ -1,0 +1,15 @@
+{
+  "name": "dist",
+  "version": "1.0.0",
+  "description": "This is my portfolio.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016https://github.com/shawon-shariff/portfolio.git"
+  },
+  "author": "Shawon Shariff",
+  "license": "ISC"
+}
